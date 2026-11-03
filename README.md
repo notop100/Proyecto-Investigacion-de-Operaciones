@@ -8,8 +8,8 @@ siguiendo el patrón MVC.
 - [x] Método de la **Gran M** (restricciones `<=`, `>=` y `=`)
 - [x] Detección de problemas no acotados e infactibles
 - [x] Pruebas automáticas del método Gran M.
-- [ ] Implementación del método **Simplex**
-- [ ] Mejoras visuales de la interfaz
+- [X] Implementación del método **Simplex**
+- [X] Mejoras visuales de la interfaz
 - [x] Pruebas automáticas del método Simplex.
 
 ## Estructura
